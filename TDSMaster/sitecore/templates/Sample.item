@@ -8,6 +8,7 @@ name: Sample
 master: {00000000-0000-0000-0000-000000000000}
 template: {0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}
 templatekey: Template Folder
+created: 20170614T101654Z
 
 ----field----
 field: {D85DB4EC-FF89-4F9C-9E7C-A9E0654797FC}
@@ -33,7 +34,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 21c911e1-1ad4-4393-a7e9-2557800b8be4
+revision: 082d3e61-89c3-484f-bd7a-c4f201416537
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -55,7 +56,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T120228Z
+20170614T103848Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -69,14 +70,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-21c911e1-1ad4-4393-a7e9-2557800b8be4
+082d3e61-89c3-484f-bd7a-c4f201416537
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T120228Z
+20170614T103848Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -87,7 +88,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: 86dacc19-37d3-402e-9951-0f57088225dc
+revision: e6fd7395-3c59-4c20-b7f2-49365239463b
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -109,7 +110,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115816Z
+20170614T104305Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -123,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-86dacc19-37d3-402e-9951-0f57088225dc
+e6fd7395-3c59-4c20-b7f2-49365239463b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115816Z
+20170614T104305Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -188,7 +189,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: ab53b41b-d7dc-4476-82d0-eae6fb4a869a
+revision: 04ce9634-3dba-430d-93aa-4da51083f479
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -210,7 +211,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115409Z
+20170614T104645Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -224,14 +225,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ab53b41b-d7dc-4476-82d0-eae6fb4a869a
+04ce9634-3dba-430d-93aa-4da51083f479
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115409Z
+20170614T104645Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
